@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.lam.spring</groupId>
-	<artifactId>initializr-start</artifactId>
+	<artifactId>weather_data_api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>initializr-start</name>
+	<name>weather_data_api</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
@@ -46,7 +46,7 @@
 		    <groupId>org.springframework.boot</groupId>
 		    <artifactId>spring-boot-starter-data-redis</artifactId>
 		</dependency>
-				
+
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
